@@ -1,6 +1,7 @@
 # OMS
 Office-Management-System advanced
 Office-Management-System is a [PHPMySQL project] with admin and multiple user profiles having different-2 permissions.
+This is my Software Engineering J-comp 
 
 Installation
 
