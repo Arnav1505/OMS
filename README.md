@@ -1,2 +1,0 @@
-# OMS
-Office management system
