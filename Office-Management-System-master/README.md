@@ -9,7 +9,7 @@ Installation
 
 2> Start WAMP Server.
 
-3> Download project from github (https://github.com/ipsmmehta/Office-Management-System.git).
+3> Download project from github (https://github.com/Arnav1505/OMS/tree/main/Office-Management-System-master).
 
 OR follow gitbash commands
 
