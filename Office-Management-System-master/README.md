@@ -15,7 +15,7 @@ OR follow gitbash commands
 
 i> cd C:\\wamp\www\
 
-ii> git clone https://github.com/ipsmmehta/Office-Management-System.git
+ii> git clone [https://github.com/Arnav1505/OMS/tree/main/Office-Management-System-master]
 
 4> Extract files in C:\wamp\www.
 
